@@ -1,9 +1,7 @@
 # Cox Automotive / Manheim Release Engineering Hiring Project
----
 Manheim's Release Engineering team develops tools, libraries, documentation, and processes to allow seventy development teams to do their jobs faster and more efficiently, reliably, and securely. Each of the teams is autonomous and has full control over the choice of languages and tools that they use. When they choose ours, it's because we provided the most compelling solution. When we do our jobs well, our products are also adopted by some of the hundreds of Cox Automotive development teams outside of the Manheim business unit.
 
 We don't do whiteboarding or programming exercises in our interviews. Our interviews are a conversation about you, about us and our company, about your experience, and about how well we think you'd be a fit for us and vice-versa. This project is intended as a way for you to show us your technical skills in a self-paced, low-pressure environment. It is intended to take no more than a few hours to complete. After a few hours, if you have not completed the challenge, wrap up your work and deliver it to us with your plan so we understand your vision for how you’d complete the project if you had the time.
-Code Challenge
 
 __Before you start:__ _If you’ve created some code that shows your experience and capabilities, feel free to submit that instead of completing this challenge.  Our intent is to see your coding ability and style to see if you’re qualified for the job._
 
