@@ -12,4 +12,4 @@ my AWS account expired recently and I have not had the time to bring it back yet
 
 Here is the basic idea for putting everything onto AWS:
 
-ansible-playbook -i inventory.txt deploy_to_ec2.yml
+ansible-playbook -i inventory.txt playbook-deploy-to-ec2.yml
