@@ -1,0 +1,13 @@
+docker-compose run --rm app sh -c "django-admin.py startproject app ."
+docker-compose run --rm app sh -c "python manage.py startapp pages"
+docker-compose run --rm app sh -c "python manage.py test"
+
+
+docker-compose up
+curl http://127.0.0.1:8000
+Hello, World!
+
+++++++++++++++++++++++++++++++++++++++++++++++++++
+to AWS:
+
+ansible-playbook -i inventory.txt deploy_to_ec2.yml
